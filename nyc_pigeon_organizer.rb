@@ -32,7 +32,7 @@ data[:gender].each do |gender,name|
   end
 end
 
-data[]
+data[:lives].each do ||
 
 
 return final
