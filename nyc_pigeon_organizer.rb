@@ -33,8 +33,14 @@ data[:gender].each do |gender,name|
 end
 
 data[:lives].each do |location,name|
-  
-
+  name.each do |bird_name|
+    x.each do |item|
+      if bird_name
+        
+    end
+  end
+end
+end
 
 return final
 end 
