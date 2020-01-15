@@ -32,6 +32,7 @@ data[:gender].each do |gender,name|
   end
 end
 
+data[]
 
 
 return final
